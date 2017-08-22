@@ -16,10 +16,10 @@ let myWriteStream1 = fs.createWriteStream('Json/Population.json')
 let myWriteStream2 = fs.createWriteStream('Json/EducationCensus.json')
 rl.on('line',(line) => {
 	count++;
+	line.split('\n')
+  let arr = line.split(',');
 	if(count!=1)
 		{
-			line.split('\n')
-			let arr = line.split(',');
 	    if(arr[5]!='All ages' && arr[5]!='Age not stated') {
 				let age=arr[5];
 				let prevalue=parseInt(arr[12]);
@@ -88,7 +88,7 @@ rl.on('line',(line) => {
 				val8=val8+Technical1[i];
 				val9=val9+GraduateAndAbove1[i];
 				val10=val10+UnClassified1[i];
-			}
+			}  
 				emp.push({  
 				"LiterateWithoutEducation": val1,
 				"BelowPrimary": val2,

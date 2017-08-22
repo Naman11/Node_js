@@ -1,14 +1,14 @@
 [
  {
-  "LiterateWithoutEducation": 0,
-  "BelowPrimary": 0,
-  "Primary": 0,
-  "Middle": 0,
-  "MatricOrSecondary": 0,
-  "HigherSecondaryOrUniversity": 0,
-  "NonTechnical": 0,
-  "Technical": 0,
-  "GraduateAndAbove": 0,
-  "UnClassified": 0
+  "LiterateWithoutEducation": 35153231,
+  "BelowPrimary": 146897597,
+  "Primary": 184170833,
+  "Middle": 133903266,
+  "MatricOrSecondary": 105939743,
+  "HigherSecondaryOrUniversity": 77942593,
+  "NonTechnical": 1072289,
+  "Technical": 7238719,
+  "GraduateAndAbove": 68288971,
+  "UnClassified": 3031570
  }
 ]
