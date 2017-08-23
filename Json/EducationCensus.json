@@ -1,14 +1,42 @@
 [
  {
-  "LiterateWithoutEducation": 35153231,
-  "BelowPrimary": 146897597,
-  "Primary": 184170833,
-  "Middle": 133903266,
-  "MatricOrSecondary": 105939743,
-  "HigherSecondaryOrUniversity": 77942593,
-  "NonTechnical": 1072289,
-  "Technical": 7238719,
-  "GraduateAndAbove": 68288971,
-  "UnClassified": 3031570
+  "Category": "LiterateWithoutEducation",
+  "Value": 35153231
+ },
+ {
+  "Category": "BelowPrimary",
+  "Value": 146897597
+ },
+ {
+  "Category": "Primary",
+  "Value": 184170833
+ },
+ {
+  "Category": "Middle",
+  "Value": 133903266
+ },
+ {
+  "Category": "MatricOrSecondary",
+  "Value": 105939743
+ },
+ {
+  "Category": "HigherSecondaryOrUniversity",
+  "Value": 77942593
+ },
+ {
+  "Category": "NonTechnical",
+  "Value": 1072289
+ },
+ {
+  "Category": "Technical",
+  "Value": 7238719
+ },
+ {
+  "Category": "GraduateAndAbove",
+  "Value": 68288971
+ },
+ {
+  "Category": "UnClassified",
+  "Value": 3031570
  }
 ]

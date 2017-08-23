@@ -1,137 +1,106 @@
-{
-  "7": [
-    {
-      "Literate Population": 36156852
-    }
-  ],
-  "8": [
-    {
-      "Literate Population": 45673918
-    }
-  ],
-  "9": [
-    {
-      "Literate Population": 41865468
-    }
-  ],
-  "10": [
-    {
-      "Literate Population": 54195204
-    }
-  ],
-  "11": [
-    {
-      "Literate Population": 45504946
-    }
-  ],
-  "12": [
-    {
-      "Literate Population": 50971556
-    }
-  ],
-  "13": [
-    {
-      "Literate Population": 44940414
-    }
-  ],
-  "14": [
-    {
-      "Literate Population": 46314768
-    }
-  ],
-  "15": [
-    {
-      "Literate Population": 46598994
-    }
-  ],
-  "16": [
-    {
-      "Literate Population": 44159612
-    }
-  ],
-  "17": [
-    {
-      "Literate Population": 38358024
-    }
-  ],
-  "18": [
-    {
-      "Literate Population": 48460344
-    }
-  ],
-  "19": [
-    {
-      "Literate Population": 36560828
-    }
-  ],
-  "0-6": [
-    {
-      "Literate Population": 0
-    }
-  ],
-  "20-24": [
-    {
-      "Literate Population": 185489460
-    }
-  ],
-  "25-29": [
-    {
-      "Literate Population": 157559050
-    }
-  ],
-  "30-34": [
-    {
-      "Literate Population": 128530782
-    }
-  ],
-  "35-39": [
-    {
-      "Literate Population": 114555114
-    }
-  ],
-  "40-44": [
-    {
-      "Literate Population": 91262480
-    }
-  ],
-  "45-49": [
-    {
-      "Literate Population": 74481128
-    }
-  ],
-  "50-54": [
-    {
-      "Literate Population": 56494092
-    }
-  ],
-  "55-59": [
-    {
-      "Literate Population": 42927948
-    }
-  ],
-  "60-64": [
-    {
-      "Literate Population": 35348536
-    }
-  ],
-  "65-69": [
-    {
-      "Literate Population": 23250752
-    }
-  ],
-  "70-74": [
-    {
-      "Literate Population": 15280436
-    }
-  ],
-  "75-79": [
-    {
-      "Literate Population": 7742622
-    }
-  ],
-  "80+": [
-    {
-      "Literate Population": 8797116
-    }
-  ]
-}
+[
+  {
+    "Index": "7",
+    "Literate_Population": 36156852
+  },
+  {
+    "Index": "8",
+    "Literate_Population": 45673918
+  },
+  {
+    "Index": "9",
+    "Literate_Population": 41865468
+  },
+  {
+    "Index": "10",
+    "Literate_Population": 54195204
+  },
+  {
+    "Index": "11",
+    "Literate_Population": 45504946
+  },
+  {
+    "Index": "12",
+    "Literate_Population": 50971556
+  },
+  {
+    "Index": "13",
+    "Literate_Population": 44940414
+  },
+  {
+    "Index": "14",
+    "Literate_Population": 46314768
+  },
+  {
+    "Index": "15",
+    "Literate_Population": 46598994
+  },
+  {
+    "Index": "16",
+    "Literate_Population": 44159612
+  },
+  {
+    "Index": "17",
+    "Literate_Population": 38358024
+  },
+  {
+    "Index": "18",
+    "Literate_Population": 48460344
+  },
+  {
+    "Index": "19",
+    "Literate_Population": 36560828
+  },
+  {
+    "Index": "20-24",
+    "Literate_Population": 185489460
+  },
+  {
+    "Index": "25-29",
+    "Literate_Population": 157559050
+  },
+  {
+    "Index": "30-34",
+    "Literate_Population": 128530782
+  },
+  {
+    "Index": "35-39",
+    "Literate_Population": 114555114
+  },
+  {
+    "Index": "40-44",
+    "Literate_Population": 91262480
+  },
+  {
+    "Index": "45-49",
+    "Literate_Population": 74481128
+  },
+  {
+    "Index": "50-54",
+    "Literate_Population": 56494092
+  },
+  {
+    "Index": "55-59",
+    "Literate_Population": 42927948
+  },
+  {
+    "Index": "60-64",
+    "Literate_Population": 35348536
+  },
+  {
+    "Index": "65-69",
+    "Literate_Population": 23250752
+  },
+  {
+    "Index": "70-74",
+    "Literate_Population": 15280436
+  },
+  {
+    "Index": "75-79",
+    "Literate_Population": 7742622
+  },
+  {
+    "Index": "80+",
+    "Literate_Population": 8797116
+  }
+]
